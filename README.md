@@ -51,5 +51,3 @@ I specialize in **full-stack development** and enjoy building **efficient, user-
 
 ---
 
-### ⚡ Fun Fact
-I love **turning ideas into real-world applications** and experimenting with **new technologies** to solve problems creatively.  
